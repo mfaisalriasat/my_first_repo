@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(90, 165, 165);
+}
+header .firstheader{
+    display: flex;
+    justify-content: space-around;
+}
+header .home{
+    margin: 50px;
+}
+header .home button{
+    border-radius: 25px;
+    height: 35px;
+    border-style: dashed;
+}
+header{
+    background-color: black;
+    margin-top: -20px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+header .name h1{
+    color: white;
+    margin: 40px;
+}
+header hr{
+    margin: 20px;
+}
+main a{
+    color: white;
+}
+main a:hover{
+    color: black;
+    font-size: 1.5rem;
+}
+main h2{
+    text-align: center;
+    color: white;
+}
+main h3{
+    text-align: center;
+    color: white;
+}
+main .first{
+    margin: 100px;
+    display: flex;
+    font-size: 1.2rem;
+    gap: 350px;
+}
+main .first .left{
+    margin-top: 20px;
+}
+main .first .right{
+    margin-top: 20px;
+}
+main .second{
+    margin: 100px;
+    display: flex;
+    font-size: 1.2rem;
+    gap: 350px;
+}
+main .second .left{
+    margin-top: 20px;
+}
+main .second .right{
+    margin-top: 20px;
+}
+main .third{
+    margin: 100px;
+    display: flex;
+    font-size: 1.2rem;
+    gap: 350px;
+}
+main .third .left{
+    margin-top: 20px;
+}
+main .third .right{
+    margin-top: 20px;
+}
+main .fourth{
+    margin: 100px;
+    display: flex;
+    font-size: 1.2rem;
+    gap: 350px;
+}
+main .fourth .left{
+    margin-top: 20px;
+}
+main .fourth .right{
+    margin-top: 20px;
+}
+img{
+    height: 250px;
+}
+footer{
+    height: 20px;
+    text-align: center;
+    color: white;
+}

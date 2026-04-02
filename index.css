@@ -1,0 +1,101 @@
+body{
+            background-color: rgb(25, 6, 67);
+            color: white;
+        }
+        #element{
+            color: rgb(125, 255, 255);
+        }
+        header .thirdsection{
+           background-color: black;
+           font-size: 1rem;
+           display: flex;
+           justify-content: space-around;
+        }
+        body header .thirdsection .my{
+            padding: 10px;
+            font-size: 1.7rem;
+           color: rgb(125, 255, 255);
+}
+        header .neb ul{
+            list-style: none;
+            display: flex;
+        }
+        header .neb button{
+            border-radius: 10px;
+            border-color: chocolate;
+            border-style: inset;
+        }
+        header .neb ul a{
+            color: white;
+        }
+        header .neb ul a:hover{
+            color: burlywood;
+            font-size: 1.2rem;
+        }
+            header{
+             text-align: center;
+             width: 100%;
+             left: 0;
+             font-size: 2rem;
+             color: white;
+             background-color: rgb(94, 87, 192);
+            }
+            main{
+             font-size: 2rem;
+            }
+            .firstsection{
+                display: flex;
+        justify-content: space-around;
+        margin: 120px 0;
+        gap: 70px;
+            }
+            main .leftsection a img{
+                height: 200px;
+                margin-top: 50px;
+                background-color: rgb(173, 173, 243);
+            }
+            main .rightsection a img{
+                height: 200px;
+                margin-top: 50px;
+                background-color: rgb(181, 181, 82);
+            }
+            .secondsection{
+                 display: flex;
+        justify-content: space-around;
+        margin: 120px 0;
+            }
+            main .left a img{
+                height: 200px;
+                margin-top: 30px;
+                background-color: rgb(173, 173, 243);
+                
+            }
+            main .right a img{
+                height: 200px;
+                margin-top: 30px;
+                background-color: rgb(173, 173, 243);
+                
+            }
+            footer{
+                background-color: black;
+                height: 120px;
+                color: white;
+            }
+            footer .firstfooter{
+                display: flex;
+                gap: 450px;
+            }
+            footer .firstfooter ul{
+                list-style: none;
+            }
+            footer .firstfooter ul a{
+                color: white;
+            }
+            footer .firstfooter ul a:hover{
+                color: blue;
+                font-size: 1.1rem;
+            }
+            footer .textlast{
+                color: white;
+                text-align: center;
+            }

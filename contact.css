@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(90, 165, 165);
+    color: white;
+}
+header .firstheader{
+    display: flex;
+    justify-content: space-around;
+}
+header .home{
+    margin: 30px;
+}
+header .home button{
+    border-radius: 25px;
+    height: 35px;
+    border-style: dashed;
+}
+header{
+    background-color: black;
+    margin-top: -20px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+main ol{
+    text-align: center;
+    font-size: 1.5rem;
+    list-style: none;
+    
+}
+main ol li span{
+  color: rgb(31, 8, 235);
+}
+main ol li div{
+    color: rgb(31, 8, 235);
+}
+footer{
+    height: 120px;
+    margin-top: 350px;
+    background-color: black;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -10px;
+}
+footer .firstfooter{
+    display: flex;
+    gap: 470px;
+}
+footer ul{
+    list-style: none;
+}
+footer .firstfooter ul a{
+    color: white;
+}
+footer .firstfooter ul a:hover{
+     color: red;
+     font-size: 1.1rem;
+}
+footer .web{
+    text-align: center;
+}

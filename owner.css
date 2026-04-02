@@ -1,0 +1,46 @@
+nav .firstsection{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 70px;
+        background-color: rgb(126, 211, 154);
+        color: white;
+        font-size: 1.5rem;
+         margin-left: -10px;
+        margin-right: -10px;
+        margin-top: -10px;
+      }
+     nav .secondsection {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 20px;
+        background-color: rgb(126, 211, 154);
+         margin-left: -10px;
+        margin-right: -10px;
+        margin-top: -10px;
+      }
+      nav ul {
+        display: flex;
+        justify-content: center;
+      }
+      nav ul li {
+        list-style: none;
+        margin: 0 23px;
+      }
+      nav ul li a{
+        color: white;
+      }
+      nav ul li a:hover{
+        color: red;
+      }
+      footer{
+                 background-color: black;
+                height: 20px;
+                color: white;
+                margin-top: 560px;
+            }
+      footer .textlast{
+                color: white;
+                text-align: center;
+            }
